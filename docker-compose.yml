@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  gandi:
+    build: .
+    image: nouchka/gandi-mail
+    environment:
+      - GANDI_DOMAIN=example.com
+    env_file:
+      - .env
+    volumes:
+      - ./mails.csv:/usr/src/app/mails.csv
