@@ -1,4 +1,10 @@
 # docker-gandi-mail
+[![Docker pull](https://img.shields.io/docker/pulls/nouchka/gandi-mail)](https://hub.docker.com/r/nouchka/gandi-mail/)
+[![Docker stars](https://img.shields.io/docker/stars/nouchka/gandi-mail)](https://hub.docker.com/r/nouchka/gandi-mail/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/nouchka/gandi-mail.svg)](https://hub.docker.com/r/nouchka/gandi-mail/)
+[![Build Status](https://img.shields.io/travis/com/nouchka/docker-gandi-mail/master)](https://travis-ci.com/github/nouchka/docker-gandi-mail)
+[![Docker size](https://img.shields.io/docker/image-size/nouchka/gandi-mail/latest)](https://hub.docker.com/r/nouchka/gandi-mail/)
+
 Docker image for email aliases creation in Gandi.net
 
 # How to
